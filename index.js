@@ -897,4 +897,3 @@ console.log(`Version: ${config.server.version}`);
 console.log(`Auto-Reconnect: ${config.utils['auto-reconnect'] ? 'Enabled' : 'Disabled'}`);
 console.log('='.repeat(50));
 
-createBot();
