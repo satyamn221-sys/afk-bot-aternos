@@ -6,10 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ashu9695-SVH8.aternos.me
-",
-    "port": :58123
-,
+    "ip": "ashu9695-SVH8.aternos.me",
+    "port": :58123,
     "version": "26.2"
   },
   "position": {
